@@ -1,0 +1,58 @@
+AUDIO ATTRIBUTION
+=================
+
+The external audio below was downloaded from Pixabay and is used under the
+Pixabay Content License:
+https://pixabay.com/service/license-summary/
+
+BACKGROUND MUSIC
+
+Title: The Tree of Life - Fantasy RPG
+Artist: Geoff Harvey (geoffharvey)
+Source: https://pixabay.com/music/ambient-the-tree-of-life-fantasy-rpg-392751/
+Original file: the_tree_of_life.mp3
+Runtime file: the_tree_of_life.ogg (converted for MonoGame DesktopGL)
+
+SOUND EFFECTS
+
+Arrow Tower
+Title: Bow Release (Bow and Arrow) 4
+Artist: Ali_6868 (Freesound), distributed by freesound_community
+Source: https://pixabay.com/sound-effects/film-special-effects-bow-release-bow-and-arrow-4-101936/
+Runtime file: tower_arrow.wav
+
+Cannon Tower
+Title: Cannon Shot / Powerful Cannon Shot
+Artist: Universfield
+Source: https://pixabay.com/sound-effects/film-special-effects-cannon-shot-352459/
+Runtime file: tower_cannon.wav
+
+Crystal Tower
+Title: laser shot ingame
+Artist: RibhavAgrawal
+Source: https://pixabay.com/sound-effects/film-special-effects-laser-shot-ingame-230500/
+Runtime file: tower_crystal.wav
+
+Castle Damage
+Title: thump (on carpet)
+Artist: animationIsaac (Freesound), distributed by freesound_community
+Source: https://pixabay.com/sound-effects/film-special-effects-thump-on-carpet-107101/
+Runtime file: castle_damage.wav
+
+MIXKIT OUTCOME SOUND EFFECTS
+
+The following two sounds were downloaded from Mixkit and are used under the
+Mixkit Sound Effects Free License:
+https://mixkit.co/license/
+
+Victory
+Title: Fantasy game success notification
+Source: https://mixkit.co/free-sound-effects/video-game/
+Original file: mixkit-fantasy-game-success-notification-270.wav
+Runtime file: victory.wav
+
+Defeat
+Title: Negative answer lose
+Source: https://mixkit.co/free-sound-effects/lose/
+Original file: mixkit-negative-answer-lose-2032.wav
+Runtime file: defeat.wav
